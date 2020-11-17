@@ -1,1 +1,12 @@
+### this file contains configuration flags to customise your site
+
+# name of your site (displayed in the header)
+name: Daniel J. Sharpe
+
+# short bio or description (displayed in the header)
+description: simulation software developer
+
+# URL of your avatar or profile pic
+avatar: https://raw.githubusercontent.com/danieljsharpe/danieljsharpe/master/discotress_network_annotated.png
+
 theme: jekyll-theme-cayman
